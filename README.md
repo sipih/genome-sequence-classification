@@ -1,4 +1,4 @@
-# Analysis of Transcription Factor binding DNA Sequences with Convolutional Neural Networks
+# Analysis of Transcription Factor Binding DNA Sequences with Convolutional Neural Networks
 
 #### Content
 * [Description of the dataset](#desription-of-the-dataset)
